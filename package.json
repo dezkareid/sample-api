@@ -1,0 +1,14 @@
+{
+  "name": "sample-api",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "git@github.com:dezkareid/sample-api.git",
+  "author": "DezkaReid <elmaildeldezkareid@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
