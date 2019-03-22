@@ -10,5 +10,5 @@ app.all('/', (req, res) => {
 })
 
 app.listen(config.port, () => {
-  console.log('API Ready')
+  console.log('API Ready in port' + config.port)
 })
